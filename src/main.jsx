@@ -4,8 +4,9 @@ import './index.css'
 import Home from "./home/Home.jsx";
 
 import { RouterProvider } from "react-router-dom";
-import { router } from "./router/route.jsx";
+ 
 import { Provider } from "react-redux";
+import { router } from "./router/Route.jsx";
  
  
 

@@ -36,41 +36,41 @@ const ProposalSite = () => {
 
   const pages = [
     {
-      title: "প্রিয় জিনিয়া",
+       
       subtitle: "My Dearest Zinia",
-      content: "তুমি জানো, তোমার সাথে প্রতিটি মুহূর্ত আমার কাছে স্বর্গের মতো মনে হয়। তোমার হাসি আমার দিনকে আলোকিত করে তোলে।",
+     
       englishContent: "You know, every moment with you feels like heaven to me. Your smile lights up my entire day.",
       bgGradient: "from-rose-300 via-pink-400 to-purple-500",
       bgPattern: "radial-gradient(circle at 25% 25%, rgba(255,255,255,0.1) 0%, transparent 50%)"
     },
     {
-      title: "আমার মনের কথা",
+   
       subtitle: "Words from My Heart",
-      content: "তোমার চোখের মধ্যে আমি আমার ভবিষ্যৎ দেখি। তোমার কণ্ঠস্বর আমার হৃদয়ে সুরের মতো বাজে।",
+     
       englishContent: "In your eyes, I see my future. Your voice resonates in my heart like a beautiful melody.",
       bgGradient: "from-purple-300 via-violet-400 to-indigo-500",
       bgPattern: "radial-gradient(circle at 75% 25%, rgba(255,255,255,0.1) 0%, transparent 50%)"
     },
     {
-      title: "তুমিই আমার সব",
+     
       subtitle: "You Are My Everything",
-      content: "তোমার ভালোবাসায় আমি নতুন জীবন পেয়েছি। তুমি আমার স্বপ্ন, আমার আশা, আমার সবকিছু।",
+     
       englishContent: "In your love, I have found new life. You are my dream, my hope, my everything.",
       bgGradient: "from-indigo-300 via-blue-400 to-cyan-500",
       bgPattern: "radial-gradient(circle at 25% 75%, rgba(255,255,255,0.1) 0%, transparent 50%)"
     },
     {
-      title: "সারাজীবনের জন্য",
+     
       subtitle: "For the Rest of Our Lives",
-      content: "আমি চাই তোমার সাথে জীবনের প্রতিটি সূর্যোদয় এবং সূর্যাস্ত দেখতে। তোমার সাথে হাঁটতে চাই জীবনের প্রতিটি পথে।",
+     
       englishContent: "I want to watch every sunrise and sunset with you. I want to walk with you on every path of life.",
       bgGradient: "from-cyan-300 via-teal-400 to-emerald-500",
       bgPattern: "radial-gradient(circle at 75% 75%, rgba(255,255,255,0.1) 0%, transparent 50%)"
     },
     {
-      title: "আমার প্রশ্ন",
+     
       subtitle: "My Question",
-      content: "জিনিয়া, তুমি কি আমার সাথে সারাজীবনের জন্য থাকবে?",
+     
       englishContent: "Zinia, will you stay with me for the rest of our lives?",
       bgGradient: "from-pink-400 via-rose-500 to-red-500",
       bgPattern: "radial-gradient(circle at 50% 50%, rgba(255,255,255,0.15) 0%, transparent 60%)",
