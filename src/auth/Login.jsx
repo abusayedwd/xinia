@@ -139,24 +139,18 @@ const ProposalSite = () => {
             </div>
 
             {/* Welcome title */}
-            <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-pulse drop-shadow-lg">
-              স্বাগতম জিনিয়া
-            </h1>
+             
             <h2 className="text-3xl md:text-4xl font-bold text-white/90 mb-8 drop-shadow-md">
               Welcome My Love
             </h2>
 
             {/* Welcome message */}
             <div className="space-y-6 mb-12">
-              <p className="text-xl md:text-2xl text-white/95 leading-relaxed font-medium drop-shadow-md">
-                আমার প্রিয়তমা, আজ আমি তোমার জন্য একটি বিশেষ কিছু তৈরি করেছি
-              </p>
+               
               <p className="text-lg md:text-xl text-white/85 leading-relaxed italic drop-shadow-sm">
                 My dearest, today I have created something special just for you
               </p>
-              <p className="text-lg md:text-xl text-white/90 leading-relaxed font-medium drop-shadow-md">
-                আমার হৃদয়ের গভীরতম অনুভূতিগুলি তোমার সাথে ভাগ করে নিতে চাই
-              </p>
+              
               <p className="text-base md:text-lg text-white/80 leading-relaxed italic drop-shadow-sm">
                 I want to share the deepest feelings of my heart with you
               </p>
